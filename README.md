@@ -1,2 +1,2 @@
-secfault-extended-euclidean-algorithm
-=====================================
+secfault-basic-gcd
+==================
